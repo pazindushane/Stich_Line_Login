@@ -1,0 +1,16 @@
+.main-body {
+    background: #161A1E;
+    width:100%;
+    height: 100%;
+    /*z-index: 100;*/
+}
+
+.welcometext{
+    color: #3CCCE7;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 99px;
+    font-family: Quicksand;
+}
